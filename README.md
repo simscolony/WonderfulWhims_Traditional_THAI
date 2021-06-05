@@ -8,7 +8,7 @@
 
 | SIMSCOLONY THAI| WonderfulWhims|
 | ------------- | ------------- |
-| WonderfulWhims V2| [ดาวโหลดแปลWonderfulWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/raw/master/[SIMSCOLONY]_WonderfulWhims_Thai_V4.package) |
+| WonderfulWhims V2| [ดาวโหลดแปลWonderfulWhims](https://github.com/simscolony/WonderfulWhims_Traditional_THAI/raw/main/%5BSIMSCOLONY%5DWonderfulWhims_THAI_V4.package) |
 | WonderfulWhims V2| [simfileshare]() |
 
 Public Version Support
@@ -16,7 +16,7 @@ Public Version Support
 
 WonderfulWhims Mod made by TURBODRIVER   [Download WonderfulWhims](https://wonderfulwhims.com/) 
 
-กรุณาติดตั้ง 4 [MOD ภาษาไทย Sims4](https://simcolony.github.io/TS4THDEMO/)
+กรุณาติดตั้ง 4 เพื่อการแสดงผล [MOD ภาษาไทย Sims4](https://simcolony.github.io/TS4THDEMO/)
 
 # วิธีการลง
 ย้ายไฟล์ลงใน FLODER
