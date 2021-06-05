@@ -1,7 +1,6 @@
 # WonderfulWhims_Traditional_THAI
-WonderfulWhims Thai locolization
 
-# แปลไทย WonderfulWhims
+## แปลไทย WonderfulWhims
 
 ![LOGO_WonderfulWhims](https://img.itch.zone/aW1nLzQyNjc4NDEucG5n/original/bivTAu.png)
 
@@ -12,7 +11,8 @@ WonderfulWhims Thai locolization
 | WonderfulWhims V2| [ดาวโหลดแปลWonderfulWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/raw/master/[SIMSCOLONY]_WonderfulWhims_Thai_V3.package) |
 | WonderfulWhims V2| [simfileshare]() |
 
-Public Version WonderfulWhims v19 - June 2nd 2021
+Public Version Support
+ - WonderfulWhims v19 - June 2nd 2021
 
 WonderfulWhims Mod made by TURBODRIVER   [Download WonderfulWhims](https://wonderfulwhims.com/) 
 
@@ -50,8 +50,6 @@ WonderfulWhims Mod made by TURBODRIVER   [Download WonderfulWhims](https://wonde
 ![WickedWhims V22](https://i.imgur.com/YThbaDS.jpg)
 ![WickedWhims V22](https://i.imgur.com/B0kUj6N.jpg)
 ![WickedWhims V22](https://i.imgur.com/wjaeC0n.jpg)
-
-
 
 
 # หากพบปัญหา แจ้งงานแปล
