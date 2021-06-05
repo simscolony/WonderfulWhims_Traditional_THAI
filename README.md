@@ -1,0 +1,2 @@
+# WonderfulWhims_Traditional_THAI
+WonderfulWhims Thai locolization
