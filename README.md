@@ -4,7 +4,7 @@
 
 ![LOGO_WonderfulWhims](https://img.itch.zone/aW1nLzQyNjc4NDEucG5n/original/bivTAu.png)
 
- แปลไทย WonderfulWhims อัพเดท 3 มิถุนายน 2564  - อัตราการแปล 86.93%
+ แปลไทย WonderfulWhims อัพเดท 5 มิถุนายน 2564  - อัตราการแปล 86.93%
 
 | SIMSCOLONY THAI| WonderfulWhims|
 | ------------- | ------------- |
