@@ -20,7 +20,7 @@ WonderfulWhims Mod made by TURBODRIVER   [Download WonderfulWhims](https://wonde
 
 # วิธีการลง
 ย้ายไฟล์ลงใน FLODER
-![WonderfulWhims_V4](https://github.com/simscolony/WonderfulWhims_Traditional_THAI/blob/main/SS/Won1.jpg?raw=true)
+
 ![WonderfulWhims_V4](https://github.com/simscolony/WonderfulWhims_Traditional_THAI/blob/main/SS/Won2.jpg?raw=true)
 ![WonderfulWhims_V4](https://github.com/simscolony/WonderfulWhims_Traditional_THAI/blob/main/SS/Won3.jpg?raw=true)
 ![WonderfulWhims_V4](https://github.com/simscolony/WonderfulWhims_Traditional_THAI/blob/main/SS/Won4.jpg?raw=true)
