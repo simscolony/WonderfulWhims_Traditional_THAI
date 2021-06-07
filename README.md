@@ -11,6 +11,7 @@
 | WonderfulWhims V2| [ดาวโหลดแปลWonderfulWhims](https://github.com/simscolony/WonderfulWhims_Traditional_THAI/raw/main/%5BSIMSCOLONY%5DWonderfulWhims_THAI_V4.package) |
 | WonderfulWhims V2| [simfileshare]() |
 
+
 Public Version Support
  - WonderfulWhims v19 - June 2nd 2021
 
@@ -33,7 +34,9 @@ WonderfulWhims Mod made by TURBODRIVER   [Download WonderfulWhims](https://wonde
 ![WonderfulWhims_V4](https://github.com/simscolony/WonderfulWhims_Traditional_THAI/blob/main/SS/Won11.jpg?raw=true)
 ![WonderfulWhims_V4](https://github.com/simscolony/WonderfulWhims_Traditional_THAI/blob/main/SS/Won12.jpg?raw=true)
 
-
+other transalation
+WickedWhims_Traditional_THAI
+https://simscolony.github.io/WickedWhims_Traditional_THAI/
 
 # หากพบปัญหา แจ้งงานแปล
 ## ติดต่อสอบถามได้ที่ [SIMSCOLONY](https://www.facebook.com/SimsColony/)
