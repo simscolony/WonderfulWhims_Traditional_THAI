@@ -8,8 +8,8 @@
 
 | SIMSCOLONY THAI| WonderfulWhims|
 | ------------- | ------------- |
-| WonderfulWhims V2| [ดาวโหลดแปลWonderfulWhims](https://github.com/simscolony/WonderfulWhims_Traditional_THAI/raw/main/%5BSIMSCOLONY%5DWonderfulWhims_THAI_V4.package) |
-| WonderfulWhims V2| [simfileshare]() |
+| WonderfulWhims V4| [ดาวโหลดแปลWonderfulWhims](https://github.com/simscolony/WonderfulWhims_Traditional_THAI/raw/main/%5BSIMSCOLONY%5DWonderfulWhims_THAI_V4.package) |
+| WonderfulWhims V4| [simfileshare]() |
 
 
 Public Version Support
