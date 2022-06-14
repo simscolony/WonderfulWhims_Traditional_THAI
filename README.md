@@ -4,17 +4,16 @@
 
 ![LOGO_WonderfulWhims](https://img.itch.zone/aW1nLzQyNjc4NDEucG5n/original/bivTAu.png)
 
- แปลไทย WonderfulWhims อัพเดท 5 มิถุนายน 2564  - อัตราการแปล 86.93%
+ * แปลไทย WonderfulWhims อัพเดท 15 มิถุนายน 2564  - อัตราการแปล 100%
 
 | SIMSCOLONY THAI| WonderfulWhims|
 | ------------- | ------------- |
-| WonderfulWhims V4| [ดาวโหลดแปลWonderfulWhims](https://github.com/simscolony/WonderfulWhims_Traditional_THAI/raw/main/%5BSIMSCOLONY%5DWonderfulWhims_THAI_V4.package) |
-| WonderfulWhims V4| [simfileshare]() |
+| WonderfulWhims V32| [ดาวโหลดแปล WonderfulWhims](https://github.com/simscolony/WonderfulWhims_Traditional_THAI/raw/main/%5BSIMSCOLONY%5D_WonderfulWhims_TH_%5B14-6-2022%5D.package) |
+| WonderfulWhims V32| [simfileshare](http://www.simfileshare.net/download/3237728/) |
 
 
 Public Version Support
- - WonderfulWhims v19 - June 2nd 2021
-
+* WonderfulWhims v32 - June 6th 2022
 WonderfulWhims Mod made by TURBODRIVER   [Download WonderfulWhims](https://wonderfulwhims.com/) 
 
 กรุณาติดตั้ง 4 เพื่อการแสดงผล [MOD ภาษาไทย Sims4](https://simcolony.github.io/TS4THDEMO/)
